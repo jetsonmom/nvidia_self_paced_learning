@@ -1,2 +1,2 @@
 # nvidia_self_paced_learning
-## jetson_nano_course
+## 1. jetson_nano_course
